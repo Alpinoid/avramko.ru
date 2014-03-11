@@ -1,0 +1,32 @@
+BODY, TD, P	{color: #353535; font-family: Tahoma; font-size: 11px; font-weight: normal;}
+
+.bottom		{color:#FFFFFF; font-family: Tahoma; font-size: 11px; font-weight: normal;}
+A.bottom	{color:#FFFFFF; text-decoration: none;}
+A.bottom:hover	{color:#FFFFFF; text-decoration: underline;}
+
+A.bottom1	{color:#FFFFFF; text-decoration: underline;}
+
+
+.date, .h	{color: #0177A9; font-family: Tahoma; font-size: 11px; font-weight: bold;}
+DIV.news	{padding-left: 20px; padding-right: 9px; padding-top: 10px; padding-bottom: 10px;}
+
+.menu		{color: #0182B8; font-family: Tahoma; font-size: 12px; font-weight: normal;}
+A.menu		{text-decoration:none;}
+A.menu:hover	{color: #C03F27; text-decoration: underline;}
+DIV.menu	{padding-right: 35px; padding-top: 7px; padding-bottom:7px;}
+
+A	{color: #C03F27; text-decoration: none;}
+A:hover	{text-decoration: underline;}
+
+
+.image	{FLOAT: left; padding-right: 5px; padding-bottom: 1px;}
+
+
+DIV.announce	{padding-left: 9px; padding-right: 9px; padding-top: 5px; padding-bottom: 5px;}
+
+.small		{color: #353535; font-family: Tahoma; font-size: 10px; font-weight: normal;}
+.smallNext	{color: #C03F27; font-family: Tahoma; font-size: 10px; font-weight: bold;}
+A.smallNext	{text-decoration: none;}
+.menumap {
+color: #0182B8; font-family: Tahoma; font-size: 11px; font-weight: normal;
+}
